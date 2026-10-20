@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>جوهرة جدة لتركيب السيراميك والبورسلين</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@500;700;800;900&display=swap');
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Tajawal', sans-serif;
+            letter-spacing: 0;
+        }
+
+        body {
+            background-color: #f8fafc;
+            color: #1e293b;
+            padding-bottom: 110px;
+            direction: rtl;
+        }
+
+        .header {
+            background: linear-gradient(180deg, #09172a 0%, #0f233d 100%);
+            text-align: center;
+            padding: 32px 16px 24px;
+            border-bottom: 3px solid #cca446;
+        }
+
+        .header h1 {
+            color: #d4af37;
+            font-size: 28px;
+            font-weight: 900;
+            margin-bottom: 8px;
+            line-height: 1.4;
+        }
+
+        .header p {
+            color: #ffffff;
+            font-size: 15px;
+            font-weight: 700;
+            line-height: 1.6;
+            opacity: 0.95;
+        }
+
+        .container {
+            max-width: 480px;
+            margin: 0 auto;
+            padding: 20px 14px;
+        }
+
+        .card {
+            background: #ffffff;
+            border: 2px solid #cca446;
+            border-radius: 20px;
+            padding: 22px 16px;
+            margin-bottom: 22px;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+            text-align: center;
+        }
+
+        .card-title {
+            color: #c49a38;
+            font-size: 21px;
+            font-weight: 900;
+            margin-bottom: 14px;
+            line-height: 1.4;
+        }
+
+        .card-text {
+            color: #334155;
+            font-size: 16px;
+            line-height: 1.9;
+            font-weight: 700;
+            text-align: justify;
+            text-justify: inter-word;
+        }
+
+        .cert-link {
+            display: block;
+            text-decoration: none;
+        }
+
+        .cert-img {
+            width: 100%;
+            border-radius: 12px;
+            border: 1.5px solid #1e293b;
+            display: block;
+        }
+
+        .services-box {
+            background: #ffffff;
+            border: 2px solid #cca446;
+            border-radius: 20px;
+            padding: 16px 14px;
+            margin-bottom: 22px;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.04);
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .service-item {
+            background: #ffffff;
+            border: 1.5px solid #cbd5e1;
+            border-radius: 12px;
+            padding: 12px 14px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .service-name {
+            color: #0f172a;
+            font-size: 15px;
+            font-weight: 800;
+        }
+
+        .service-status {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            font-size: 17px;
+            font-weight: 900;
+        }
+
+        .service-dash {
+            color: #10b981;
+            font-weight: 900;
+        }
+
+        .service-check {
+            color: #475569;
+        }
+
+        .gallery-link {
+            display: block;
+            margin-bottom: 14px;
+            text-decoration: none;
+        }
+
+        .gallery-link:last-child {
+            margin-bottom: 0;
+        }
+
+        .gallery-img {
+            width: 100%;
+            border-radius: 14px;
+            border: 1.5px solid #cbd5e1;
+            display: block;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+        }
+
+        .floating-bar {
+            position: fixed;
+            bottom: 18px;
+            left: 0;
+            right: 0;
+            display: flex;
+            justify-content: center;
+            gap: 12px;
+            padding: 0 16px;
+            z-index: 999999;
+            max-width: 480px;
+            margin: 0 auto;
+            pointer-events: none;
+        }
+
+        .btn-float {
+            flex: 1;
+            padding: 14px 0;
+            border-radius: 50px;
+            font-size: 18px;
+            font-weight: 900;
+            text-decoration: none;
+            text-align: center;
+            color: #ffffff;
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.28);
+            display: block;
+            pointer-events: auto;
+        }
+
+        .btn-call {
+            background-color: #0077b6;
+        }
+
+        .btn-whatsapp {
+            background-color: #1faa59;
+        }
+    </style>
+</head>
+<body>
+
+    <header class="header">
+        <h1>جوهرة جدة</h1>
+        <p>فني تركيب سيراميك وبورسلين ورخام بجدة بميزان الليزر</p>
+    </header>
+
+    <div class="container">
+
+        <section class="card">
+            <h2 class="card-title">إبداع في التنفيذ ودقة متناهية بميزان الليزر</h2>
+            <p class="card-text">نحول أرضيات وجدران منزلك إلى تحفة فنية متكاملة بأحدث تقنيات الليزر لضمان استواء دقيق بدون أدنى خطأ أو ميلان خبرة واحترافية في تركيب البورسلين والرخام والسلابات الفاخرة بأعلى معايير الإتقان مع ضمان معتمد على جودة التركيب داخل جدة صور موقعك الآن وأرسل الصور عبر الواتساب للمعاينة الفورية أو اتصل بنا مباشرة لتحصل على تقييم سريع ودقة تنفيذ تليق بك</p>
+        </section>
+
+        <section class="card">
+            <h2 class="card-title">شهادة الخبرة المهنية المعتمدة</h2>
+            <a href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D9%81%D8%B1%20%D9%88%D9%82%D8%AA%D9%83%20%D9%88%D8%B5%D9%88%D8%B1%20%D9%85%D9%83%D8%A7%D9%86%20%D8%A7%D9%84%D8%B4%D8%BA%D9%84%20%D9%88%D8%A3%D8%B1%D8%B3%D9%84%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20%D8%A3%D9%88%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20%D8%A7%D9%84%D8%A2%D9%86%20%D9%84%D8%AA%D8%AD%D8%B5%D9%84%20%D8%B9%D9%84%D9%89%20%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%20%D9%81%D9%88%D8%B1%D9%8A%20%D9%88%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9%20%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9%20%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D9%85%20%D8%B4%D8%BA%D9%84%D9%83%20%D8%A8%D8%A3%D8%B9%D9%84%D9%89%20%D8%AF%D9%82%D8%A9%20%D9%84%D9%8A%D8%B2%D8%B1%20%D9%88%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1%20%D8%AA%D8%A7%D9%85%20%D8%AF%D8%A7%D8%AE%D9%84%20%D8%AC%D8%AF%D8%A9" class="cert-link">
+                <img src="نموذج المسح الضوئي الوثيقة ٢٠١٦٠٩٠٧ ٢٣٠٧.jpg" onerror="this.onerror=null; this.src='نموذج المسح الضوئي الوثيقة ٢٠١٦٠٩٠٧ ٢٣٠٧_2.jpg'; if(!this.complete) this.src='%D9%86%D9%85%D9%88%D8%B0%D8%AC%20%D8%A7%D9%84%D9%85%D8%B3%D8%AD%20%D8%A7%D9%84%D8%B6%D9%88%D8%A6%D9%8A%20%D8%A7%D9%84%D9%88%D8%AB%D9%8A%D9%82%D8%A9%20%D9%A2%D9%A0%D9%A1%D9%A6%D9%A0%D9%A9%D9%A0%D9%A7%20%D9%A2%D9%A3%D9%A0%D9%A7.jpg';" alt="شهادة الخبرة المهنية المعتمدة" class="cert-img">
+            </a>
+        </section>
+
+        <section class="services-box">
+            <div class="service-item">
+                <span class="service-name">فن تركيب رخام بجدة</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">فن تركيب سلابات ومقاسات كبيرة بجدة</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">فن تركيب سيراميك بميزان الليزر بجدة</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">فن تركيب بورسلين بميزان الليزر بجدة</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">فن تشطيب حمامات ومطابخ بجدة</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">مبلط ممتاز بجدة استواء تام ودقة ليزرية</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">معلم تركيب سيراميك وبورسلين بجدة</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+            <div class="service-item">
+                <span class="service-name">جوهرة جدة لتركيب السيراميك والبورسلين</span>
+                <span class="service-status"><span class="service-check">&#10004;</span><span class="service-dash">-</span></span>
+            </div>
+        </section>
+
+        <section class="card">
+            <h2 class="card-title">معرض أعمالنا في جدة</h2>
+            <a href="tel:0561201914" class="gallery-link">
+                <img src="FB_IMG_1790797287550.jpg" alt="معرض أعمالنا" class="gallery-img">
+            </a>
+            <a href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D9%81%D8%B1%20%D9%88%D9%82%D8%AA%D9%83%20%D9%88%D8%B5%D9%88%D8%B1%20%D9%85%D9%83%D8%A7%D9%86%20%D8%A7%D9%84%D8%B4%D8%BA%D9%84%20%D9%88%D8%A3%D8%B1%D8%B3%D9%84%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20%D8%A3%D9%88%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20%D8%A7%D9%84%D8%A2%D9%86%20%D9%84%D8%AA%D8%AD%D8%B5%D9%84%20%D8%B9%D9%84%D9%89%20%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%20%D9%81%D9%88%D8%B1%D9%8A%20%D9%88%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9%20%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9%20%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D9%85%20%D8%B4%D8%BA%D9%84%D9%83%20%D8%A8%D8%A3%D8%B9%D9%84%D9%89%20%D8%AF%D9%82%D8%A9%20%D9%84%D9%8A%D8%B2%D8%B1%20%D9%88%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1%20%D8%AA%D8%A7%D9%85%20%D8%AF%D8%A7%D8%AE%D9%84%20%D8%AC%D8%AF%D8%A9" class="gallery-link">
+                <img src="FB_IMG_1791458732434.jpg" alt="معرض أعمالنا" class="gallery-img">
+            </a>
+            <a href="tel:0561201914" class="gallery-link">
+                <img src="FB_IMG_1792180094213.jpg" alt="معرض أعمالنا" class="gallery-img">
+            </a>
+            <a href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D9%81%D8%B1%20%D9%88%D9%82%D8%AA%D9%83%20%D9%88%D8%B5%D9%88%D8%B1%20%D9%85%D9%83%D8%A7%D9%86%20%D8%A7%D9%84%D8%B4%D8%BA%D9%84%20%D9%88%D8%A3%D8%B1%D8%B3%D9%84%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20%D8%A3%D9%88%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20%D8%A7%D9%84%D8%A2%D9%86%20%D9%84%D8%AA%D8%AD%D8%B5%D9%84%20%D8%B9%D9%84%D9%89%20%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%20%D9%81%D9%88%D8%B1%D9%8A%20%D9%88%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9%20%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9%20%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D9%85%20%D8%B4%D8%BA%D9%84%D9%83%20%D8%A8%D8%A3%D8%B9%D9%84%D9%89%20%D8%AF%D9%82%D8%A9%20%D9%84%D9%8A%D8%B2%D8%B1%20%D9%88%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1%20%D8%AA%D8%A7%D9%85%20%D8%AF%D8%A7%D8%AE%D9%84%20%D8%AC%D8%AF%D8%A9" class="gallery-link">
+                <img src="FB_IMG_1792180450514.jpg" alt="معرض أعمالنا" class="gallery-img">
+            </a>
+            <a href="tel:0561201914" class="gallery-link">
+                <img src="FB_IMG_1792180469142_edit_29835610405908.jpg" alt="معرض أعمالنا" class="gallery-img">
+            </a>
+        </section>
+
+    </div>
+
+    <div class="floating-bar">
+        <a href="tel:0561201914" class="btn-float btn-call">اتصال مباشر</a>
+        <a href="https://wa.me/966561201914?text=%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85%20%D8%B9%D9%84%D9%8A%D9%83%D9%85%20%D9%88%D9%81%D8%B1%20%D9%88%D9%82%D8%AA%D9%83%20%D9%88%D8%B5%D9%88%D8%B1%20%D9%85%D9%83%D8%A7%D9%86%20%D8%A7%D9%84%D8%B4%D8%BA%D9%84%20%D9%88%D8%A3%D8%B1%D8%B3%D9%84%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20%D8%A3%D9%88%20%D8%A7%D8%AA%D8%B5%D9%84%20%D8%A8%D9%86%D8%A7%20%D8%A7%D9%84%D8%A2%D9%86%20%D9%84%D8%AA%D8%AD%D8%B5%D9%84%20%D8%B9%D9%84%D9%89%20%D8%AA%D9%82%D8%AF%D9%8A%D8%B1%20%D9%81%D9%88%D8%B1%D9%8A%20%D9%88%D9%85%D8%B9%D8%A7%D9%8A%D9%86%D8%A9%20%D8%B3%D8%B1%D9%8A%D8%B9%D8%A9%20%D9%88%D8%A7%D8%B3%D8%AA%D9%84%D9%85%20%D8%B4%D8%BA%D9%84%D9%83%20%D8%A8%D8%A3%D8%B9%D9%84%D9%89%20%D8%AF%D9%82%D8%A9%20%D9%84%D9%8A%D8%B2%D8%B1%20%D9%88%D8%A7%D8%B3%D8%AA%D9%88%D8%A7%D8%A1%20%D8%AA%D8%A7%D9%85%20%D8%AF%D8%A7%D8%AE%D9%84%20%D8%AC%D8%AF%D8%A9" class="btn-float btn-whatsapp">واتساب فوري</a>
+    </div>
+
+</body>
+</html>
